@@ -35,27 +35,27 @@
 ## ✔️ Repositories
 
 <p width="100%">
-  <a align="left" href="https://github.com/prodipto27/prodipto27.github.io" title="Algorithms"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipto27&repo=prodipto27.github.io&theme=gotham"></a><a align="right" href="https://github.com/ms-jahan/prayer-times-pwa" title="Data Structures"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=prayer-times-pwa&theme=gotham"></a>
+  <a align="left" href="https://github.com/prodipto27/prodipto27.github.io" title="Algorithms"><img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipto27&repo=prodipto27.github.io&theme=gotham"></a><a align="right" href="https://github.com/ms-jahan/prayer-times-pwa" title="Data Structures"><img  width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=prayer-times-pwa&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%">
-  <a align="left" href="https://github.com/ms-jahan/DowsTAR" title="DowsTAR"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=DowsTAR&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/pyMessToTele" title="Artificial Neural Networks"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=pyMessToTele&theme=gotham"></a>
+  <a align="left" href="https://github.com/ms-jahan/DowsTAR" title="DowsTAR"><img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=DowsTAR&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/pyMessToTele" title="Artificial Neural Networks"><img  width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=pyMessToTele&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%">
-  <a align="left" href="https://github.com/ms-jahan/Messenger-Account-Deactivation-Monitor" title="Messenger-Account-Deactivation-Monitor"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Account-Deactivation-Monitor&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/Messenger-Image-Bulk-Downloader" title="Messenger-Image-Bulk-Downloader"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Image-Bulk-Downloader&theme=gotham"></a>
+  <a align="left" href="https://github.com/ms-jahan/Messenger-Account-Deactivation-Monitor" title="Messenger-Account-Deactivation-Monitor"><img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Account-Deactivation-Monitor&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/Messenger-Image-Bulk-Downloader" title="Messenger-Image-Bulk-Downloader"><img  width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Image-Bulk-Downloader&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%">
-  <a align="left" href="https://github.com/ms-jahan/Messenger-Message-Logger" title="Messenger-Message-Logger"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Message-Logger&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/fb-auto-reply-py" title="fb-auto-reply-py"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=fb-auto-reply-py&theme=gotham"></a>
+  <a align="left" href="https://github.com/ms-jahan/Messenger-Message-Logger" title="Messenger-Message-Logger"><img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Message-Logger&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/fb-auto-reply-py" title="fb-auto-reply-py"><img  width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=fb-auto-reply-py&theme=gotham"></a>
 </p>
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center">
-  <a href=https://github.com/ms-jahan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+<h4>
+  <a align="center" href=https://github.com/ms-jahan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 ## 👁️ Visitors
