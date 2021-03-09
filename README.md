@@ -22,37 +22,37 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ## 🏃‍♂️ Stats
-<p align=center>
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=ms-jahan&show_icons=true&theme=gotham">
+    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=ms-jahan&show_icons=true&theme=gotham">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-jahan&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
+  <img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-jahan&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
   </a>
 </p>
 
 ## ✔️ Repositories
 
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/prodipto27/prodipto27.github.io" title="Algorithms"><img height="115" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipto27&repo=prodipto27.github.io&theme=gotham"></a><a align="right" href="https://github.com/ms-jahan/prayer-times-pwa" title="Data Structures"><img height="115" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=prayer-times-pwa&theme=gotham"></a>
+<p width="100%">
+  <a align="left" href="https://github.com/prodipto27/prodipto27.github.io" title="Algorithms"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipto27&repo=prodipto27.github.io&theme=gotham"></a><a align="right" href="https://github.com/ms-jahan/prayer-times-pwa" title="Data Structures"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=prayer-times-pwa&theme=gotham"></a>
 </p>
 <br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/ms-jahan/DowsTAR" title="DowsTAR"><img height="115" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=DowsTAR&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/pyMessToTele" title="Artificial Neural Networks"><img height="115" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=pyMessToTele&theme=gotham"></a>
+<p width="100%">
+  <a align="left" href="https://github.com/ms-jahan/DowsTAR" title="DowsTAR"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=DowsTAR&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/pyMessToTele" title="Artificial Neural Networks"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=pyMessToTele&theme=gotham"></a>
 </p>
 <br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/ms-jahan/Messenger-Account-Deactivation-Monitor" title="Messenger-Account-Deactivation-Monitor"><img height="115" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Account-Deactivation-Monitor&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/Messenger-Image-Bulk-Downloader" title="Messenger-Image-Bulk-Downloader"><img height="115" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Image-Bulk-Downloader&theme=gotham"></a>
+<p width="100%">
+  <a align="left" href="https://github.com/ms-jahan/Messenger-Account-Deactivation-Monitor" title="Messenger-Account-Deactivation-Monitor"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Account-Deactivation-Monitor&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/Messenger-Image-Bulk-Downloader" title="Messenger-Image-Bulk-Downloader"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Image-Bulk-Downloader&theme=gotham"></a>
 </p>
 <br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/ms-jahan/Messenger-Message-Logger" title="Messenger-Message-Logger"><img height="115" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Message-Logger&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/fb-auto-reply-py" title="fb-auto-reply-py"><img height="115" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=fb-auto-reply-py&theme=gotham"></a>
+<p width="100%">
+  <a align="left" href="https://github.com/ms-jahan/Messenger-Message-Logger" title="Messenger-Message-Logger"><img  width="48%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Message-Logger&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/fb-auto-reply-py" title="fb-auto-reply-py"><img  width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=fb-auto-reply-py&theme=gotham"></a>
 </p>
-<br><br>
+<br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center">
   <a href=https://github.com/ms-jahan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
