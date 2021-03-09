@@ -9,6 +9,8 @@
 - 🎮 [𝓥𝓪𝓵𝓸𝓻𝓪𝓷𝓽](https://playvalorant.com/) ❤️‍🔥
 - ❤️ 𝘓𝘰𝘷𝘦 𝘓𝘪𝘯𝘶𝘹 𝘢𝘯𝘥 𝘖𝘱𝘦𝘯 𝘚𝘰𝘶𝘳𝘤𝘦. 𝘐 𝘶𝘴𝘦 𝘈𝘳𝘤𝘩, 𝘣𝘵𝘸! [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
+
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,6 +23,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
+
 ## 🏃‍♂️ Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -34,6 +39,8 @@
 
 <br><br><br><br>
 <br><br><br><br>
+
+
 ## ✔️ Repositories
 
 <p width="100%">
