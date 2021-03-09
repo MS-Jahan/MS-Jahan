@@ -1,4 +1,5 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 [![Linkedin Badge](https://img.shields.io/badge/-mdsarwarjahan--sabit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsarwarjahan-sabit/)](https://www.linkedin.com/in/mdsarwarjahan-sabit/)[![Github Badge](https://img.shields.io/badge/-MS--Jahan-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ms-jahan)](https://github.com/ms-jahan)[![Twitter Badge](https://img.shields.io/badge/-@MS__Jahan__Sabit-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MS_Jahan_Sabit)](https://github.com/ms-jahan)[![Facebook Badge](https://img.shields.io/badge/-Md_Sarwar_Jahan_Sabit-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdsarwarjahan.sabit)](https://www.facebook.com/mdsarwarjahan.sabit)[![Telegram Badge](https://img.shields.io/badge/-sa6it-ffffff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sa61t)](https://t.me/sa61t)[![Protonmail Badge](https://img.shields.io/badge/-ssarwar-9397cd?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:ssarwar@pm.me)](mailto:ssarwar@pm.me)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -27,7 +28,7 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-jahan&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-jahan&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
   </a>
 </p>
 
@@ -35,11 +36,6 @@
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/prodipto27/prodipto27.github.io" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipto27&repo=prodipto27.github.io&theme=gotham"></a><a align="right" href="https://github.com/ms-jahan/prayer-times-pwa" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=prayer-times-pwa&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/ms-jahan/Messenger-Message-Logger" title="Messenger-Message-Logger"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Message-Logger&theme=gotham"></a>
-  <a align="right" href="https://github.com/ms-jahan/fb-auto-reply-py" title="fb-auto-reply-py"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=fb-auto-reply-py&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
@@ -51,7 +47,13 @@
   <a align="left" href="https://github.com/ms-jahan/Messenger-Account-Deactivation-Monitor" title="Messenger-Account-Deactivation-Monitor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Account-Deactivation-Monitor&theme=gotham"></a>
   <a align="right" href="https://github.com/ms-jahan/Messenger-Image-Bulk-Downloader" title="Messenger-Image-Bulk-Downloader"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Image-Bulk-Downloader&theme=gotham"></a>
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/ms-jahan/Messenger-Message-Logger" title="Messenger-Message-Logger"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=Messenger-Message-Logger&theme=gotham"></a>
+  <a align="right" href="https://github.com/ms-jahan/fb-auto-reply-py" title="fb-auto-reply-py"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ms-jahan&repo=fb-auto-reply-py&theme=gotham"></a>
+</p>
+<br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center">
   <a href=https://github.com/ms-jahan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
