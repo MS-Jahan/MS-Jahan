@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mdsarwarjahan--sabit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsarwarjahan-sabit/)](https://www.linkedin.com/in/mdsarwarjahan-sabit/) [![Github Badge](https://img.shields.io/badge/-MS--Jahan-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ms-jahan)](https://github.com/ms-jahan) [![Twitter Badge](https://img.shields.io/badge/-@MS__Jahan__Sabit-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MS_Jahan_Sabit)](https://twitter.com/MS_Jahan_Sabit) [![Facebook Badge](https://img.shields.io/badge/-Md_Sarwar_Jahan_Sabit-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdsarwarjahan.sabit)](https://www.facebook.com/mdsarwarjahan.sabit) [![Telegram Badge](https://img.shields.io/badge/-sa6it-ffffff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sa61t)](https://t.me/sa61t) [![Protonmail Badge](https://img.shields.io/badge/-ssarwar-9397cd?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:ssarwar@pm.me)](mailto:ssarwar@pm.me)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 #ᗩ_ᑕOᗰᑭᑌTEᖇ_ᑎEᖇᗪ!
-- 🎓 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘮𝘺 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳 𝘰𝘧 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘵𝘩𝘦 [ℑ𝔫𝔰𝔱𝔦𝔱𝔲𝔱𝔢 𝔬𝔣 𝔖𝔠𝔦𝔢𝔫𝔠𝔢 𝔞𝔫𝔡 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶](https://ist.edu.bd/), 𝘣𝘢𝘵𝘤𝘩 𝚘𝚏 2019.
-- 🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘤𝘰𝘥𝘪𝘯𝘨.
-- 🎮 [𝓥𝓪𝓵𝓸𝓻𝓪𝓷𝓽](https://playvalorant.com/) ❤️‍🔥
-- ❤️ 𝘓𝘰𝘷𝘦 𝘓𝘪𝘯𝘶𝘹 𝘢𝘯𝘥 𝘖𝘱𝘦𝘯 𝘚𝘰𝘶𝘳𝘤𝘦. 𝘐 𝘶𝘴𝘦 𝘈𝘳𝘤𝘩, 𝘣𝘵𝘸! [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🖥  #ᗩ_ᑕOᗰᑭᑌTEᖇ_ᑎEᖇᗪ!
+- 🎓  𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘮𝘺 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳 𝘰𝘧 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘵𝘩𝘦 [ℑ𝔫𝔰𝔱𝔦𝔱𝔲𝔱𝔢 𝔬𝔣 𝔖𝔠𝔦𝔢𝔫𝔠𝔢 𝔞𝔫𝔡 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶](https://ist.edu.bd/), 𝘣𝘢𝘵𝘤𝘩 𝚘𝚏 2019.
+- 🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘤𝘰𝘥𝘪𝘯𝘨.
+- 🎮  [𝓥𝓪𝓵𝓸𝓻𝓪𝓷𝓽](https://playvalorant.com/) ❤️‍🔥
+- ❤️  𝘓𝘰𝘷𝘦 𝘓𝘪𝘯𝘶𝘹 𝘢𝘯𝘥 𝘖𝘱𝘦𝘯 𝘚𝘰𝘶𝘳𝘤𝘦. 𝘐 𝘶𝘴𝘦 Manjaro, 𝘣𝘵𝘸! [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" height="30em" align="center" alt="Manjaro Linux Logo" title="Manjaro Linux Logo"/>](https://manjaro.org/)
 
 
 
