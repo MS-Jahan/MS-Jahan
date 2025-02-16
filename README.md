@@ -73,9 +73,6 @@ View all of my recent projects [here](https://sabit.dev/#projects).
 
 View all of my recent projects [here](https://sabit.dev/#projects).
 
-<br><br><br><br>
-<br><br><br><br>
-
 ## 📫 Get in Touch
 - Website: [sabit.dev](https://sabit.dev)
 - Email: contact@sabit.dev
