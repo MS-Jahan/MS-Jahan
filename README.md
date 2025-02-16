@@ -8,7 +8,7 @@
 - 💼 Former Jr. Software Developer at [Onutiative](https://onutiative.com/) (Jan 2023 - Jan 2024)
 - 🚀 Currently a Freelance Developer. Check my [Fiverr](https://www.fiverr.com/msjsabit) account.
 - 🌟 Over 85+ happy clients and 100+ successful projects
-- 🎮 Passionate Valorant player
+- 🎮 Casual PC gamer
 - 🐧 Linux enthusiast (Manjaro user) [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" height="30em" align="center" alt="Manjaro Linux Logo" title="Manjaro Linux Logo"/>](https://manjaro.org/)
 
 ## 💻 Technologies & Skills
