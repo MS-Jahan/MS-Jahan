@@ -4,6 +4,7 @@
 
 ## :book: About Me
 - 🖥 Software Developer with experience in Web & Mobile App Development
+- 🛡️ Cyber Security Enthusiast
 - 🎓 BSc in Computer Science and Engineering from [Institute of Science and Technology](https://ist.edu.bd/)
 - 💼 Former Jr. Software Developer at [Onutiative](https://onutiative.com/) (Jan 2023 - Jan 2024)
 - 🚀 Currently a Freelance Developer. Check my [Fiverr](https://www.fiverr.com/msjsabit) account.
