@@ -206,9 +206,8 @@ Django-based web application for event management with user authentication, even
 - 💼 **Fiverr:** [msjsabit](https://www.fiverr.com/msjsabit) *(currently not working)*
 - 💼 **Upwork:** [mdsarwarjahansabit](https://www.upwork.com/freelancers/mdsarwarjahansabit)
 - 👔 **LinkedIn:** [mdsarwarjahan-sabit](https://www.linkedin.com/in/mdsarwarjahan-sabit/)
-- 🐦 **GitHub:** [ms-jahan](https://github.com/ms-jahan)
+- 💻 **GitHub:** [ms-jahan](https://github.com/ms-jahan)
 - 🐦 **Twitter:** [@MS_Jahan_Sabit](https://twitter.com/MS_Jahan_Sabit)
 
----
 
-**⭐ Star this repo if you found it helpful!**
+
