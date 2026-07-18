@@ -181,11 +181,17 @@ Push-driven Pub/Sub webhook converts incoming Gmail messages into structured Not
 
 ### Other Projects
 
+Public pins and related work (see profile pins for the primary set):
+
 | Project | What it does | Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **Army Phone Numbers** (সেনাপ্রইরী) | Emergency contact directory PWA for army camps, built during a national emergency | React.js, PWA, Tailwind CSS | [Repo](https://github.com/MS-Jahan/army-phone-numbers) |
-| **GDocUnblocker** | Bypasses Google Drive doc/PDF preview restrictions via page-capture + PDF conversion | Flutter, Dart, JavaScript | [Repo](https://github.com/MS-Jahan/GDocUnblocker) |
-| **Daraz Scraper & Analysis** | Scrapes Daraz Bangladesh product data, visualizes price/discount/rating trends | Python, MySQL, Pandas, Matplotlib | [Repo](https://github.com/MS-Jahan/Daraz-Scraper-and-Visualization) |
+| **Digital Broadcasting Display** | Flask digital signage: playlists, live video, token counters, remote devices | Python, Flask, Socket.IO, Docker | [Repo](https://github.com/MS-Jahan/Digital-Broadcasting-Display) |
+| **Remote PC StartUp (NodeMCU)** | Wake a LAN PC via Telegram + ESP8266 Wake-on-LAN (no port forwarding) | Arduino, ESP8266, Telegram | [Repo](https://github.com/MS-Jahan/Remote-PC-StartUp-NodeMCU) · [Write-up](https://ms-jahan.notion.site/Wake-Up-PC-WakeOnLan-Remotely-Using-Telegram-and-NodeMCU-500802b5219949b1865ba849cbc390dc) |
+| **Newspaper Bot TG** | Scrapes BD newspapers & NU notices → Telegram Instant-View posts | Python, Telegram, GitHub Actions | [Repo](https://github.com/MS-Jahan/newspaper-bot-tg) |
+| **Pet Feeder** | IoT feeder: schedule / manual dispense via Flask + MQTT + ESP8266 | Flask, MQTT, ESP8266 | [Repo](https://github.com/MS-Jahan/pet-feeder) |
+| **Daraz Scraper & Analysis** | Scrapes Daraz BD products → MySQL + Pandas/Matplotlib HTML report | Python, MySQL, Pandas, Matplotlib | [Repo](https://github.com/MS-Jahan/Daraz-Scraper-and-Visualization) |
+| **Army Phone Numbers** (সেনাপ্রহরী) | Emergency army-camp contact PWA built during a national emergency | React, PWA, Tailwind | [Repo](https://github.com/MS-Jahan/army-phone-numbers) · [Live](https://shenaprohori.pages.dev) |
+| **GDocUnblocker** | *Currently non-functional* (Google Drive PDF fetch changed) — Flutter page-capture case study | Flutter, Dart, WebView | [Repo](https://github.com/MS-Jahan/GDocUnblocker) |
 
 ### 👀 View All Projects
 
