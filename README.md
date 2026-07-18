@@ -124,7 +124,7 @@ Users record or upload audio and get LLM-assisted transcription plus smart notes
 
 **Tech:** React 18, TypeScript, Vite, Tailwind, Supabase, Deno Edge Functions, Cloudflare R2, Cloud Run
 
-[🔗 Live](https://kathasync.com)
+[🔗 Live](https://kathasync.com) · [📋 Showcase](https://github.com/MS-Jahan/kathasync-showcase)
 🔒 Source private (commercial SaaS)
 
 ---
@@ -135,7 +135,7 @@ Four Django web applications and a brand portal for B2B operations: farm managem
 
 **Tech:** Python, Django, MySQL, Docker, Coolify, Cloudflare R2
 
-[🔗 Live](https://rayanagro.group)
+[🔗 Live](https://rayanagro.group) · [📋 Showcase](https://github.com/MS-Jahan/rayyan-suite-showcase)
 🔒 Source private
 
 ---
@@ -146,6 +146,7 @@ Rebuilt hunting-team-matching platform with hunter profiles, unit-tag team pairi
 
 **Tech:** React 19, TypeScript, NestJS, Fastify, Prisma, PostgreSQL, Socket.io, Mapbox GL, Stripe
 
+[📋 Showcase](https://github.com/MS-Jahan/jointeamhunt-showcase)
 🔒 Source private (client project)
 
 ---
@@ -156,7 +157,7 @@ Tracks meals via photo, voice, or text using OpenAI-powered food recognition. De
 
 **Tech:** Flutter, Dart, OpenAI API, Firebase, speech_to_text, Telegram Bot API
 
-[🔗 Live](https://procal.food/) · 📱 Also on Google Play
+[🔗 Live](https://procal.food/) · 📱 Also on Google Play · [📋 Showcase](https://github.com/MS-Jahan/procal-showcase)
 🔒 Source private (part-time role, owned by employer)
 
 ---
