@@ -167,7 +167,8 @@ Scheduled agent that summarizes daily WhatsApp conversations and emails a separa
 
 **Tech:** Python, Gemini multimodal, scheduled email delivery
 
-🔒 Source private (office project — public release pending sanitization)
+[🔗 Repo (public)](https://github.com/MS-Jahan/whatsapp-message-summarizer-public)
+Built as an internal office tool — confirm stakeholder OK before citing in applications.
 
 ---
 
@@ -177,7 +178,8 @@ Push-driven Pub/Sub webhook converts incoming Gmail messages into structured Not
 
 **Tech:** Python, FastAPI, Gmail API, Pub/Sub, Notion API, Telegram Bot API, Coolify
 
-🔒 Source private (public release pending)
+[🔗 Repo (public)](https://github.com/MS-Jahan/ai-email-task-automation-public)
+Example Notion project names in the public copy are fictional placeholders.
 
 ### Other Projects
 
