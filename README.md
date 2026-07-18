@@ -157,7 +157,7 @@ Tracks meals via photo, voice, or text using OpenAI-powered food recognition. De
 
 **Tech:** Flutter, Dart, OpenAI API, Firebase, speech_to_text, Telegram Bot API
 
-[🔗 Live](https://procal.food/) · 📱 Also on Google Play · [📋 Showcase](https://github.com/MS-Jahan/procal-showcase)
+[🔗 Live](https://procal.food/) · [📱 Google Play](https://play.google.com/store/apps/details?id=co.willpowerventures.pro_cal&hl=en) · [📋 Showcase](https://github.com/MS-Jahan/procal-showcase)
 🔒 Source private (part-time role, owned by employer)
 
 ---
