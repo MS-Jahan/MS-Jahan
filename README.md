@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Md.%20Sarwar%20Jahan%20Sabit&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Integration%20%26%20Full-Stack%20SaaS&descSize=18&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Md.%20Sarwar%20Jahan%20Sabit&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20-%20AI%20Integration%20and%20Full-Stack%20SaaS&descSize=18&descAlignY=62)
 
 ### Software Engineer | Python · TypeScript · Flutter | AI Integration & Full-Stack SaaS
 
@@ -108,7 +108,7 @@ at [Onutative](https://onutative.com/) — Uttor Badda, Dhaka, Bangladesh
 
 | | |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=MS-Jahan&show_icons=true&theme=default&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Jahan&layout=compact&theme=default&hide_border=true) |
+| ![Stats](https://gh-readme-stats.vercel.app/api?username=MS-Jahan&show_icons=true&theme=default&hide_border=true) | ![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=MS-Jahan&layout=compact&theme=default&hide_border=true) |
 
 ![Streak](https://streak-stats.demolab.com/?user=MS-Jahan&hide_border=true)
 
@@ -119,30 +119,70 @@ at [Onutative](https://onutative.com/) — Uttor Badda, Dhaka, Bangladesh
 ## 🚀 Featured Projects
 
 **KathaSync** — *Bangla/English/Banglish Voice-to-Text SaaS*
+
 Users record or upload audio and get LLM-assisted transcription plus smart notes, summaries, meeting minutes, and translation. Credit-based billing with bKash SMS verification, phone OTP, admin console, and large-file Meeting Mode via R2/GCS + Cloud Run async jobs.
+
 **Tech:** React 18, TypeScript, Vite, Tailwind, Supabase, Deno Edge Functions, Cloudflare R2, Cloud Run
-[🔗 Live](https://kathasync.com) · 🔒 Source private (commercial SaaS)
+
+[🔗 Live](https://kathasync.com)
+🔒 Source private (commercial SaaS)
+
+---
+
+**Rayyan Group Business Suite** — *B2B Operations Platform*
+
+Four Django web applications and a brand portal for B2B operations: farm management, retail Feed Store POS with FIFO inventory, FMCG distribution with multi-company data isolation, and cashbox/profit reporting dashboards.
+
+**Tech:** Python, Django, MySQL, Docker, Coolify, Cloudflare R2
+
+[🔗 Live](https://rayanagro.group)
+🔒 Source private
+
+---
+
+**JoinTeamHunt** — *Hunting-Team-Matching Platform (Client Rebuild)*
+
+Rebuilt hunting-team-matching platform with hunter profiles, unit-tag team pairing across 11 US states, real-time chat and forums, map-based discovery, and Stripe checkout — replacing the prior WordPress/BuddyBoss stack.
+
+**Tech:** React 19, TypeScript, NestJS, Fastify, Prisma, PostgreSQL, Socket.io, Mapbox GL, Stripe
+
+🔒 Source private (client project)
+
+---
 
 **ProCal** — *AI Nutrition Coach*
+
 Tracks meals via photo, voice, or text using OpenAI-powered food recognition. Delivers personalized meal plans, smart reminders, and Firebase-backed sync, plus a companion Telegram bot for chat-based logging.
+
 **Tech:** Flutter, Dart, OpenAI API, Firebase, speech_to_text, Telegram Bot API
-[🔗 Live](https://procal.food/) · 📱 Also on Google Play · 🔒 Source private (part-time role, owned by employer)
+
+[🔗 Live](https://procal.food/) · 📱 Also on Google Play
+🔒 Source private (part-time role, owned by employer)
+
+---
 
 **WhatsApp Message Summarizer** — *Nightly AI Digest Agent*
+
 Scheduled agent that summarizes daily WhatsApp conversations and emails a separate digest per chat thread, using Gemini multimodal analysis across text, voice, image, and video messages.
+
 **Tech:** Python, Gemini multimodal, scheduled email delivery
+
 🔒 Source private (office project — public release pending sanitization)
 
+---
+
 **AI Email Task Automation** — *Gmail-to-Notion Triage Agent*
+
 Push-driven Pub/Sub webhook converts incoming Gmail messages into structured Notion Kanban cards, with Gemini-assisted classification, thread deduplication, and retry guardrails.
+
 **Tech:** Python, FastAPI, Gmail API, Pub/Sub, Notion API, Telegram Bot API, Coolify
+
 🔒 Source private (public release pending)
+
+### Other Projects
 
 | Project | What it does | Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **GearUp API** | Sports & outdoor gear rental backend | Node.js, Express, TypeScript, PostgreSQL, Prisma, Stripe | [Repo](https://github.com/MS-Jahan/gearup-api) · [Live](https://gearup-api.vercel.app) |
-| **JoinTeamHunt** | Hunting-team-matching platform rebuild — hunter profiles, real-time chat/forums, map discovery, Stripe checkout, replacing a WordPress/BuddyBoss stack | React 19, TypeScript, NestJS, Fastify, Prisma, PostgreSQL, Socket.io, Mapbox GL, Stripe | 🔒 Source private (client project) |
-| **Rayyan Group Business Suite** | Four Django apps for B2B ops — farm management, retail POS with FIFO inventory, multi-company FMCG distribution, cashbox/profit dashboards | Python, Django, MySQL, Docker, Coolify, Cloudflare R2 | [Live](https://rayanagro.group) · 🔒 Source private |
 | **Army Phone Numbers** (সেনাপ্রইরী) | Emergency contact directory PWA for army camps, built during a national emergency | React.js, PWA, Tailwind CSS | [Repo](https://github.com/MS-Jahan/army-phone-numbers) |
 | **GDocUnblocker** | Bypasses Google Drive doc/PDF preview restrictions via page-capture + PDF conversion | Flutter, Dart, JavaScript | [Repo](https://github.com/MS-Jahan/GDocUnblocker) |
 | **Daraz Scraper & Analysis** | Scrapes Daraz Bangladesh product data, visualizes price/discount/rating trends | Python, MySQL, Pandas, Matplotlib | [Repo](https://github.com/MS-Jahan/Daraz-Scraper-and-Visualization) |
