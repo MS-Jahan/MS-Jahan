@@ -1,7 +1,10 @@
-# 👨‍💻 Md. Sarwar Jahan Sabit
-### Software Developer | Linux Enthusiast | Cybersec | AI
+<div align="center">
 
-*Building innovative solutions through code*
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Md.%20Sarwar%20Jahan%20Sabit&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Integration%20%26%20Full-Stack%20SaaS&descSize=18&descAlignY=62)
+
+### Software Engineer | Python · TypeScript · Flutter | AI Integration & Full-Stack SaaS
+
+*Building AI-assisted automation and full-stack products, from Bangla voice SaaS to B2B commerce systems*
 
 [![Linkedin](https://img.shields.io/badge/-mdsarwarjahan--sabit-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsarwarjahan-sabit/)](https://www.linkedin.com/in/mdsarwarjahan-sabit/)
 [![Github](https://img.shields.io/badge/-MS--Jahan-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/ms-jahan)](https://github.com/ms-jahan)
@@ -9,47 +12,50 @@
 [![Website](https://img.shields.io/badge/-sabit.dev-000000?style=flat-square&logo=google-chrome&logoColor=white&link=https://sabit.dev)](https://sabit.dev)
 [![Email](https://img.shields.io/badge/Email-contact@sabit.dev-0078D4?style=flat-square&logo=gmail&logoColor=white&link=mailto:contact@sabit.dev)](mailto:contact@sabit.dev)
 
-📊 **3+ Years** | 🌟 **100+ Projects** | ⭐ **85+ Happy Clients** | 🐧 **Linux Enthusiast**
+📊 **4+ Years** · 🌟 **100+ Projects** · ⭐ **85+ Happy Clients** · 📈 **2,438 Contributions** (past year)
+
+</div>
 
 ---
 
 ## 📖 About Me
 
-Versatile software developer with expertise in **Python**, **JavaScript**, and **Flutter**. Passionate about automation, web scraping, and building innovative solutions.
+Software engineer with 4+ years building REST APIs, admin dashboards, and workflow automation across B2B SaaS platforms and freelance client work. Currently focused on LLM-assisted products — AI nutrition tracking, voice-to-text SaaS, automation agents — alongside full-stack Django/Laravel/Node work.
 
-- 🎓 **BSc in CSE** at [Institute of Science and Technology](https://ist.edu.bd/) (2019 - 2025)
-- 🚀 **Freelance Developer** | Available for your next project
-- 🌟 **85+ Happy Clients** | 100+ Successful Projects
-- 🐧 **Linux Enthusiast** (Manjaro) | 🔒 **Cybersec** | 🤖 **AI**
-- 🎮 **Casual PC Gamer** | 🚲 **Cycling**
+- 🎓 **BSc in Computer Science & Engineering** — Institute of Science and Technology, National University (Dec 2019 – Jan 2026), CGPA 3.13
+- 🚀 **Open to full-time roles** — currently part-time @ Vendy Ltd + ongoing freelance work
+- 🐧 **Linux Enthusiast** (Manjaro) · 🔒 **CTF Player** · 🚲 **Cycling**
+
+🔭 **Currently building:** [KathaSync](https://kathasync.com) — a Bangla/English/Banglish voice-to-text SaaS with LLM-assisted summarization and meeting notes.
 
 ### 🛠️ Professional Experience
 
-**Software Engineering Specialist** | *(January 2026 - Present)*
-at [Vendy Ltd](https://vendy.ltd/)
-- Android Development (Java/Kotlin)
-- PHP & CodeIgniter
-- IoT (Arduino & NodeMCU)
-- Scripting & Automation
+**Software Engineering Specialist** (Part-time) | *Jan 2026 – Present*
+at [Vendy Ltd](https://vendy.ltd/) — Dhaka, Bangladesh
+- Built an employee self-service leave-cancellation module (Laravel) for Vendy's HRM platform, cutting HR admin ticket overhead by 40%
+- Built a ReportingHierarchy service with cascading manager updates, AJAX tree admin views, and broken-manager detection
+- Integrated bKash and aamarpay payment gateways with REST callback verification for live and sandbox transactions
+- Implemented `/verify-card` and `/postTransaction` REST endpoints for Vendy's JolTM device-telemetry platform
 
-**Freelance Developer** | *(October 2021 - Present)*
-- Python Scripting & Automation
-- Web Scraping & Data Extraction
-- Telegram Bot Development
-- WordPress Customization
-- Django Backend Development
-- GUI Applications
+**Freelance Developer** | *Oct 2021 – Present*
+- Delivered Django/Flask REST APIs and web apps for SMB clients, cutting manual-process effort by ~90% per engagement
+- Built Telegram-bot automation and scraping pipelines scheduled via GitHub Actions, cutting routine admin time by ~88%
+- Shipped Flutter apps to the Google Play Store, paired with Django/Flask backends on Docker-ready AWS/GCP/DigitalOcean/Azure hosts
 
-**Jr. Software Developer** | *(January 2023 - January 2024)*
-at [Onutative](https://onutative.com/)
-- Android Development (Java/Kotlin)
-- PHP & CodeIgniter
-- IoT (Arduino & NodeMCU)
-- Scripting & Automation
+**Jr. Software Developer** | *Jan 2023 – Jan 2024*
+at [Onutative](https://onutative.com/) — Uttor Badda, Dhaka, Bangladesh
+- Optimized a slow PHP/CodeIgniter MySQL query path, dropping page-load time by 92% and removing a long-standing bottleneck
+- Diagnosed a cPanel email misconfiguration delaying inbound delivery and cut average incoming email reception time by 80%
 
 ---
 
 ## 💻 Tech Stack & Skills
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n%20%2F%20Make-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -57,145 +63,115 @@ at [Onutative](https://onutative.com/)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Coolify](https://img.shields.io/badge/-Coolify-6B21A8?style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| | |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=MS-Jahan&show_icons=true&theme=default&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-Jahan&layout=compact&theme=default&hide_border=true) |
+
+![Streak](https://streak-stats.demolab.com/?user=MS-Jahan&hide_border=true)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🍎 ProCal</b> - AI-Powered Nutrition Tracker</summary>
+**KathaSync** — *Bangla/English/Banglish Voice-to-Text SaaS*
+Users record or upload audio and get LLM-assisted transcription plus smart notes, summaries, meeting minutes, and translation. Credit-based billing with bKash SMS verification, phone OTP, admin console, and large-file Meeting Mode via R2/GCS + Cloud Run async jobs.
+**Tech:** React 18, TypeScript, Vite, Tailwind, Supabase, Deno Edge Functions, Cloudflare R2, Cloud Run
+[🔗 Live](https://kathasync.com) · 🔒 Source private (commercial SaaS)
 
-A Flutter application for tracking daily nutrition using **voice, text, or image input**. Integrates ChatGPT API for food recognition from images and Firebase for real-time data sync.
+**ProCal** — *AI Nutrition Coach*
+Tracks meals via photo, voice, or text using OpenAI-powered food recognition. Delivers personalized meal plans, smart reminders, and Firebase-backed sync, plus a companion Telegram bot for chat-based logging.
+**Tech:** Flutter, Dart, OpenAI API, Firebase, speech_to_text, Telegram Bot API
+[🔗 Live](https://procal.food/) · 📱 Also on Google Play · 🔒 Source private (part-time role, owned by employer)
 
-**Tech:** Flutter, Dart, ChatGPT API, TTS, Firebase
+**WhatsApp Message Summarizer** — *Nightly AI Digest Agent*
+Scheduled agent that summarizes daily WhatsApp conversations and emails a separate digest per chat thread, using Gemini multimodal analysis across text, voice, image, and video messages.
+**Tech:** Python, Gemini multimodal, scheduled email delivery
+🔒 Source private (office project — public release pending sanitization)
 
-[🔗 Live Demo](https://procal.food/) | [📦 GitHub](https://github.com/MS-Jahan/ProCal)
-</details>
+**AI Email Task Automation** — *Gmail-to-Notion Triage Agent*
+Push-driven Pub/Sub webhook converts incoming Gmail messages into structured Notion Kanban cards, with Gemini-assisted classification, thread deduplication, and retry guardrails.
+**Tech:** Python, FastAPI, Gmail API, Pub/Sub, Notion API, Telegram Bot API, Coolify
+🔒 Source private (public release pending)
 
-<details>
-<summary><b>🖼 GDocUnlocker</b> - Bypass Google Docs Restrictions</summary>
-
-Flutter app that bypasses Google Drive Doc/PDF preview restrictions by capturing pages as images and converting to PDF using a local server solution.
-
-**Tech:** Flutter, Dart, JavaScript
-
-[📦 GitHub](https://github.com/MS-Jahan/GDocUnlocker)
-</details>
-
-<details>
-<summary><b>📊 Daraz Product Scraper & Analysis</b> - E-Commerce Insights</summary>
-
-Python-based tool that scrapes product data from Daraz Bangladesh, performs data analysis and visualizes insights like price trends, discount patterns, and product ratings.
-
-**Tech:** Python, MySQL, Pandas, Matplotlib
-
-[📦 GitHub](https://github.com/MS-Jahan/Daraz-Scraper-and-Visualization)
-</details>
-
-<details>
-<summary><b>📱 Unsplash Gallery</b> - Infinite Photo Stream</summary>
-
-Modern Flutter app with infinite scrolling photo gallery featuring hero animations, search functionality, full-screen view with zoom, and intelligent offline caching.
-
-**Tech:** Flutter, Dart
-
-[📦 GitHub](https://github.com/MS-Jahan/flutter_unsplash_demo-potentialai)
-</details>
-
-<details>
-<summary><b>📺 Digital Broadcasting Display</b> - Video Management System</summary>
-
-Flask-based web application for managing and showcasing video collections on digital broadcasting displays. Features separate admin and viewer interfaces.
-
-**Tech:** Python, Flask, HTML, CSS, JavaScript, jQuery
-
-[📦 GitHub](https://github.com/MS-Jahan/Digital-Broadcasting-Display)
-</details>
-
-<details>
-<summary><b>📰 Messenger Message Logger</b> - Message Backup</summary>
-
-Logs Messenger messages locally and automatically sends copies via Telegram bot. Preserves messages even after deletion by sender.
-
-**Tech:** Python, Telegram Bot API
-
-[📦 GitHub](https://github.com/MS-Jahan/Messenger-Message-Logger)
-</details>
-
-<details>
-<summary><b>🤖 Pet Feeder</b> - IoT Pet Care</summary>
-
-Full-stack IoT solution using Flask, SQLite, MQTT, and ESP8266. Features user authentication, real-time feeding control, and live monitoring.
-
-**Tech:** Python, Flask, HTML, CSS, JS, C++, MQTT
-
-[📦 GitHub](https://github.com/ms-jahan/pet-feeder)
-</details>
-
-<details>
-<summary><b>📝 Army Phone Numbers</b> (সেনাপ্রইরী) - Emergency Contacts</summary>
-
-React-based web application providing contact numbers for army camps. Developed during a crucial period to help citizens contact military authorities. PWA with offline support.
-
-**Tech:** React.js, PWA, Tailwind CSS
-
-[📦 GitHub](https://github.com/MS-Jahan/army-phone-numbers)
-</details>
-
-<details>
-<summary><b>📰 Remote PC StartUp</b> - IoT Wake Control</summary>
-
-Uses NodeMCU and Telegram bot to remotely wake up a PC via WakeOnLan. Enables remote PC control post-boot.
-
-**Tech:** C++, WakeOnLan, Telegram Bot
-
-[📦 GitHub](https://github.com/MS-Jahan/Remote-PC-StartUp-NodeMCU)
-</details>
-
-<details>
-<summary><b>📰 Newspaper Bot TG</b> - News Aggregator</summary>
-
-Automated news aggregation system that scrapes various newspaper websites and sends links as Instant View to a Telegram channel. Also scrapes national university notices.
-
-**Tech:** Python, BeautifulSoup, GitHub Actions
-
-[📦 GitHub](https://github.com/MS-Jahan/newspaper-bot-tg)
-</details>
-
-<details>
-<summary><b>📋 Event Registration System</b> - Event Management</summary>
-
-Django-based web application for event management with user authentication, event registration, and admin dashboard.
-
-**Tech:** Django, Python, Tailwind CSS
-
-[📦 GitHub](https://github.com/MS-Jahan/Event_Registration_System)
-</details>
-
----
+| Project | What it does | Tech | Links |
+| :--- | :--- | :--- | :--- |
+| **GearUp API** | Sports & outdoor gear rental backend | Node.js, Express, TypeScript, PostgreSQL, Prisma, Stripe | [Repo](https://github.com/MS-Jahan/gearup-api) · [Live](https://gearup-api.vercel.app) |
+| **JoinTeamHunt** | Hunting-team-matching platform rebuild — hunter profiles, real-time chat/forums, map discovery, Stripe checkout, replacing a WordPress/BuddyBoss stack | React 19, TypeScript, NestJS, Fastify, Prisma, PostgreSQL, Socket.io, Mapbox GL, Stripe | 🔒 Source private (client project) |
+| **Rayyan Group Business Suite** | Four Django apps for B2B ops — farm management, retail POS with FIFO inventory, multi-company FMCG distribution, cashbox/profit dashboards | Python, Django, MySQL, Docker, Coolify, Cloudflare R2 | [Live](https://rayanagro.group) · 🔒 Source private |
+| **Army Phone Numbers** (সেনাপ্রইরী) | Emergency contact directory PWA for army camps, built during a national emergency | React.js, PWA, Tailwind CSS | [Repo](https://github.com/MS-Jahan/army-phone-numbers) |
+| **GDocUnblocker** | Bypasses Google Drive doc/PDF preview restrictions via page-capture + PDF conversion | Flutter, Dart, JavaScript | [Repo](https://github.com/MS-Jahan/GDocUnblocker) |
+| **Daraz Scraper & Analysis** | Scrapes Daraz Bangladesh product data, visualizes price/discount/rating trends | Python, MySQL, Pandas, Matplotlib | [Repo](https://github.com/MS-Jahan/Daraz-Scraper-and-Visualization) |
 
 ### 👀 View All Projects
 
-[sabit.dev/#projects](https://sabit.dev/#projects) | [my-projects-so-far.sabit.dev](https://my-projects-so-far.sabit.dev) | [github.com/ms-jahan](https://github.com/ms-jahan?tab=repositories)
+[sabit.dev/#projects](https://sabit.dev/#projects) · [my-projects-so-far.sabit.dev](https://my-projects-so-far.sabit.dev) · [github.com/ms-jahan?tab=repositories](https://github.com/ms-jahan?tab=repositories)
 
+---
+
+## 🏆 Certifications
+
+- GitHub Foundations — GitHub, Apr 2024 (expires Apr 2027)
+- Google Cybersecurity Certificate — Coursera, Jun 2023
+- Fundamentals of DevOps — KodeKloud, Sep 2024
+- DevOps Pre-Requisite Course — KodeKloud, Sep 2024
+- Full Stack Web Development with Python & JavaScript — Bohubrihi, Mar 2024
+- Android App Development — NACTAR, Dec 2020
+
+## 🥇 Achievements
+
+- **ICPC Asia Dhaka Regional Contest 2024** — solved 2 problems for the team
+- **CyberRaid CTF 2025** (Bangladesh Army) — 7th preliminary, 22nd final
+- **BUET CTF 2024** — 22nd
+- **East West University NRF 24 CTF** — 10th
+- **Phoenix Summit CTF 2024** — 10th of 100 (final round)
+- **Zelf Hackathon 2.0 (2024)** — 3rd, Data Scraping category
+- **MIST LeetCon 2023** — HackMeIfYouCan CTF finalist
+- **NASA Space Apps Challenge 2020** — team OrionVI, [GreenX](https://github.com/MS-Jahan/GreenX)
 
 ---
 
@@ -203,11 +179,13 @@ Django-based web application for event management with user authentication, even
 
 - 🌐 **Portfolio:** [sabit.dev](https://sabit.dev)
 - 📧 **Email:** [contact@sabit.dev](mailto:contact@sabit.dev)
-- 💼 **Fiverr:** [msjsabit](https://www.fiverr.com/msjsabit) *(currently not working)*
 - 💼 **Upwork:** [mdsarwarjahansabit](https://www.upwork.com/freelancers/mdsarwarjahansabit)
 - 👔 **LinkedIn:** [mdsarwarjahan-sabit](https://www.linkedin.com/in/mdsarwarjahan-sabit/)
 - 💻 **GitHub:** [ms-jahan](https://github.com/ms-jahan)
 - 🐦 **Twitter:** [@MS_Jahan_Sabit](https://twitter.com/MS_Jahan_Sabit)
 
+<div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=ms-jahan&style=flat-square&color=blue)
 
+</div>
