@@ -204,6 +204,8 @@ Public pins and related work (see profile pins for the primary set):
 
 ## 🏆 Certifications
 
+[View on LinkedIn](https://www.linkedin.com/in/mdsarwarjahan-sabit/details/certifications/)
+
 - GitHub Foundations — GitHub, Apr 2024 (expires Apr 2027)
 - Google Cybersecurity Certificate — Coursera, Jun 2023
 - Fundamentals of DevOps — KodeKloud, Sep 2024
